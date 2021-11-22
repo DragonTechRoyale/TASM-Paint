@@ -1,6 +1,6 @@
 # TASM-Paint
 
-A simple paint programm written in Turbo Assembly
+A simple paint program written in Turbo Assembly
 
 
 To compile:
