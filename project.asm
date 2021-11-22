@@ -78,7 +78,7 @@ start:
 			add [rectangle_x], 10
 			inc [rectangle_color] ; to switch colors
 			dec [loop_counter_1] ; to signal that an eturation passed
-			; for some reasonn I can't figure I need to re-do this every
+			; for some reason I can't figure I need to re-do this every
 			; eturation otherwise they change
 			mov [rectangle_width], 10
 			mov [rectangle_height], 10
